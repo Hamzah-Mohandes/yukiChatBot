@@ -9,11 +9,11 @@
 
     <com.alan.alansdk.button.AlanButton
         android:id="@+id/alan_button"
-        android:layout_width="217dp"
-        android:layout_height="247dp"
+        android:layout_width="67dp"
+        android:layout_height="62dp"
         android:layout_gravity="bottom"
-        android:layout_marginStart="96dp"
-        android:layout_marginBottom="52dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="16dp"
         android:visibility="visible"
         app:button_horizontal_align="right"
         app:layout_constraintBottom_toBottomOf="parent"
